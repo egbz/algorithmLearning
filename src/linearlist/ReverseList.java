@@ -1,4 +1,4 @@
-package linear;
+package linearlist;
 
 /**
  * 将单向链表反转
