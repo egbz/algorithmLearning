@@ -1,6 +1,9 @@
 package sort;
 
 /**
+ * 堆排序 O(nlogn)
+ * 不稳定
+ *
  * @author egbz
  * @date 2021/3/28
  */
