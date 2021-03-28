@@ -1,6 +1,9 @@
 package sort;
 
 /**
+ * 快排 O(nlogn)
+ * 最常用, 不稳定
+ *
  * @author egbz
  * @date 2021/3/28
  */
