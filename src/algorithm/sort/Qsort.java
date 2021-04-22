@@ -1,4 +1,4 @@
-package sort;
+package algorithm.sort;
 
 /**
  * 快排 O(nlogn)

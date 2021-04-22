@@ -1,4 +1,4 @@
-package linearlist;
+package algorithm.linearlist;
 
 /**
  * leetcode p142

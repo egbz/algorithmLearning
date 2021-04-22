@@ -1,4 +1,4 @@
-package linearlist;
+package algorithm.linearlist;
 
 /**
  * 将单向链表反转
